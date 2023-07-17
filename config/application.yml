@@ -1,0 +1,6 @@
+config:
+  feed:
+    priceRateLimit: 20
+    contentRateLimit: 20
+    reviewRateLimit: 10
+    acceptancePercentage: 98
