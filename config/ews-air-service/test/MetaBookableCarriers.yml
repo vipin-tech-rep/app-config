@@ -1,0 +1,11 @@
+metaBookableCarriers:
+  -
+    tpid: 70201
+    eapid: 69987
+    fulfillmentType: ALL
+    bookableCarriers: "NK, F9, B6, EK, QR, BA, NH, BR"
+  -
+    tpid: 80001
+    eapid: 81284
+    fulfillmentType: ALL
+    bookableCarriers: "NK, F9, B6, EK, QR, BA, NH, BR"
